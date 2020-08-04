@@ -1,0 +1,15 @@
+{
+  "short_name": "Covid visualisation",
+  "name": "Covid data visualisation using mathdroid's covid-19-api.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "314x314"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
